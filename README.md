@@ -24,7 +24,7 @@ It offers various functionalities to add, view, update, delete, and search for s
 ***6. Exit***
 : Provides an option to exit the application.
 
-### How to use code
+## How to use code
 
 ***Requirements:-***
 1. Notepad
@@ -49,7 +49,7 @@ STEP 6: Process Result.
 
 STEP 7: Close the Connection and Statement.
 
-### Database used – MY SQL
+## Database used – MY SQL
 
 The database of the Student Portal System comprises a single table named "students." This table is used to store student-related information, and its columns represent various attributes of the students.
 
