@@ -43,6 +43,12 @@ STEP 7: Close the Connection and Statement.
 **JDBC API** uses **JDBC drivers** to connect with the databases. It is a part if JAVASE (Java standard edition). JDBC API uses JDBC drivers to connect with the database. JDBC API can be used to access tabular data stored in any relational database by the help of JDBC API, we can save, update, delete and fetch data from databases. It is like Open Database connectivity provided by Microsoft.
 
 
-![image](https://github.com/asmit-codes/student-portal-system/assets/166336403/3deb0537-9f85-437e-94cc-3cc2d6c4d1b1)
+![PRESENTATION-java_Page_18](https://github.com/asmit-codes/student-portal-system/assets/166336403/b6d837e0-9d69-44a3-9ff0-9cc370619b6d)
+![PRESENTATION-java_Page_17](https://github.com/asmit-codes/student-portal-system/assets/166336403/d15eea72-b7c0-46c5-9301-08a447b4cca3)
+![PRESENTATION-java_Page_16](https://github.com/asmit-codes/student-portal-system/assets/166336403/51cb42e1-00bf-49b1-ab92-97bb182702db)
+![PRESENTATION-java_Page_15](https://github.com/asmit-codes/student-portal-system/assets/166336403/f9956ad5-3174-41d6-9787-6d3511b5ee23)
+![PRESENTATION-java_Page_14](https://github.com/asmit-codes/student-portal-system/assets/166336403/c4ce3adc-6b47-48ce-8a00-3825c065031d)
+
+
 
 
