@@ -1,5 +1,7 @@
 # Student Portal System
+
 "Student Portal System" is a software application developed using Java with JDBC (Java Database Connectivity) for the back-end, and it uses MySQL as the database management system. This system serves as an administrative-level portal designed to manage student records and information.
+
 It offers various functionalities to add, view, update, delete, and search for student records efficiently. This system can be used in educational institutions or organizations to maintain and access student-related information.
 
 # Breakdown of what the Student Portal System does:-
@@ -78,7 +80,11 @@ The database of the Student Portal System comprises a single table named "studen
 
 
 
+
+
 ![PRESENTATION-java_Page_14](https://github.com/asmit-codes/student-portal-system/assets/166336403/c4ce3adc-6b47-48ce-8a00-3825c065031d)
+
+
 
 
 
@@ -86,11 +92,17 @@ The database of the Student Portal System comprises a single table named "studen
 
 
 
+
+
 ![PRESENTATION-java_Page_16](https://github.com/asmit-codes/student-portal-system/assets/166336403/51cb42e1-00bf-49b1-ab92-97bb182702db)
 
 
 
+
+
 ![PRESENTATION-java_Page_17](https://github.com/asmit-codes/student-portal-system/assets/166336403/d15eea72-b7c0-46c5-9301-08a447b4cca3)
+
+
 
 
 
