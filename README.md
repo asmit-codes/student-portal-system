@@ -4,7 +4,7 @@
 
 It offers various functionalities to add, view, update, delete, and search for student records efficiently. This system can be used in educational institutions or organizations to maintain and access student-related information.
 
-# Breakdown of what the Student Portal System does:-
+## Breakdown of what the Student Portal System does:-
 
 ***1. Add Records***
 : Allows administrators to add new student records with various details, such as student name, branch, father's name, mother's name, address, date of birth, age, and telephone number.
@@ -24,7 +24,7 @@ It offers various functionalities to add, view, update, delete, and search for s
 ***6. Exit***
 : Provides an option to exit the application.
 
-# How to use code
+## How to use code
 
 ***Requirements:-***
 1. Notepad
