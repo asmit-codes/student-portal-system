@@ -32,12 +32,19 @@ It offers various functionalities to add, view, update, delete, and search for s
 5. Jdk-20-windows
    
 ***Steps To Connect Java and DBMS using JDBC There are Seven steps that has to be followed :-***
+
 STEP 1: Import the Package.
+
 STEP 2: Load and Register the Driver. 
+
 STEP 3: Establish the Connection.
+
 STEP 4: Create the Statement. 
+
 STEP 5: Execute the Query.
+
 STEP 6: Process Result.
+
 STEP 7: Close the Connection and Statement.
 
 # Database used – MY SQL
@@ -50,23 +57,23 @@ The database of the Student Portal System comprises a single table named "studen
 
 **Columns:**
 
-1. student_id :An identifier for each student, which could be an automatically generated unique number.
+1.  student_id :An identifier for each student, which could be an automatically generated unique number.
 
-2. student_name: The name of the student.
+2.  student_name: The name of the student.
 
-3. branch: The branch or field of study that the student is enrolled in.
+3.  branch: The branch or field of study that the student is enrolled in.
 
-4. father_name: The name of the student's father.
+4.  father_name: The name of the student's father.
 
-5. mother_name: The name of the student's mother.
+5.  mother_name: The name of the student's mother.
 
-6. address: The student's address, which might include the residential address.
+6.  address: The student's address, which might include the residential address.
 
-7. date_of_birth: The date of birth of the student, usually stored in a date format (e.g., YYYY-MM-DD).
+7.  date_of_birth: The date of birth of the student, usually stored in a date format (e.g., YYYY-MM-DD).
 
-8. age: The age of the student.
+8.  age: The age of the student.
 
-9. telephone_no: The telephone or contact number of the student
+9.  telephone_no: The telephone or contact number of the student
 
 
 
