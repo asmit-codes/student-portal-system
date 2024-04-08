@@ -4,20 +4,21 @@ It offers various functionalities to add, view, update, delete, and search for s
 
 # Breakdown of what the Student Portal System does:-
 
-1. Add Records
+***1. Add Records***
 : Allows administrators to add new student records with various details, such as student name, branch, father's name, mother's name, address, date of birth, age, and telephone number.
 
-2. Display Records
+***2. Display Records***
 : Provides a way to view all the student records stored in the database. It likely presents this information in a tabular format.
 
-3. Update Records
+***3. Update Records***
 : Enables administrators to update existing student records. This can include modifying student names, branches, or other information.
 
-4. Delete Records
+***4. Delete Records***
 : Offers the ability to delete student records from the database. This is useful for removing outdated or irrelevant records.
 
-5. Search Records
+***5. Search Records***
 : Allows users to search for specific student records based on criteria such as student name.
 
-6. Exit
+***6. Exit***
 : Provides an option to exit the application.
+
