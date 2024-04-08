@@ -41,9 +41,13 @@ STEP 6: Process Result.
 STEP 7: Close the Connection and Statement.
 
 # Database used – MY SQL
+
 The database of the Student Portal System comprises a single table named "students." This table is used to store student-related information, and its columns represent various attributes of the students.
+
 ***Here's an overview of what this "students" table typically includes:***
+
 **Table Name**: students
+
 **Columns:**
 1.student_id :An identifier for each student, which could be an automatically generated unique number.
 2.student_name: The name of the student.
