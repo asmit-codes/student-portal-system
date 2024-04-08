@@ -49,30 +49,44 @@ The database of the Student Portal System comprises a single table named "studen
 **Table Name**: students
 
 **Columns:**
+
 1.student_id :An identifier for each student, which could be an automatically generated unique number.
+
 2.student_name: The name of the student.
+
 3.branch: The branch or field of study that the student is enrolled in.
+
 4.father_name: The name of the student's father.
+
 5.mother_name: The name of the student's mother.
+
 6.address: The student's address, which might include the residential address.
+
 7.date_of_birth: The date of birth of the student, usually stored in a date format (e.g., YYYY-MM-DD).
+
 8.age: The age of the student.
+
 9.telephone_no: The telephone or contact number of the student
 
 
 ![PRESENTATION-java_Page_14](https://github.com/asmit-codes/student-portal-system/assets/166336403/c4ce3adc-6b47-48ce-8a00-3825c065031d)
 
 
+
 ![PRESENTATION-java_Page_15](https://github.com/asmit-codes/student-portal-system/assets/166336403/f9956ad5-3174-41d6-9787-6d3511b5ee23)
+
 
 
 ![PRESENTATION-java_Page_16](https://github.com/asmit-codes/student-portal-system/assets/166336403/51cb42e1-00bf-49b1-ab92-97bb182702db)
 
 
+
 ![PRESENTATION-java_Page_17](https://github.com/asmit-codes/student-portal-system/assets/166336403/d15eea72-b7c0-46c5-9301-08a447b4cca3)
 
 
+
 ![PRESENTATION-java_Page_18](https://github.com/asmit-codes/student-portal-system/assets/166336403/b6d837e0-9d69-44a3-9ff0-9cc370619b6d)
+
 
 
 
