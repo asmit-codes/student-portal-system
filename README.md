@@ -22,3 +22,26 @@ It offers various functionalities to add, view, update, delete, and search for s
 ***6. Exit***
 : Provides an option to exit the application.
 
+# How to use code
+
+***Requirements:-***
+1. Notepad
+2. Cmd(CommandPrompt)
+3. MySql-5.5
+4. MySql-connector-8.1.0
+5. Jdk-20-windows
+   
+***Steps To Connect Java and DBMS using JDBC There are Seven steps that has to be followed :-***
+STEP 1: Import the Package.
+STEP 2: Load and Register the Driver. 
+STEP 3: Establish the Connection.
+STEP 4: Create the Statement. 
+STEP 5: Execute the Query.
+STEP 6: Process Result.
+STEP 7: Close the Connection and Statement.
+
+**JDBC API** uses **JDBC drivers** to connect with the databases. It is a part if JAVASE (Java standard edition). JDBC API uses JDBC drivers to connect with the database. JDBC API can be used to access tabular data stored in any relational database by the help of JDBC API, we can save, update, delete and fetch data from databases. It is like Open Database connectivity provided by Microsoft.
+
+
+![image](https://github.com/asmit-codes/student-portal-system/assets/166336403/77d21499-27ec-4a42-b3f9-c4d733050e12)
+
